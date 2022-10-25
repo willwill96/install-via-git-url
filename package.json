@@ -4,7 +4,7 @@
     "main": "index.js",
     "scripts": {
         "build": "tsc",
-        "prepack": "npm run build"
+        "prepare": "tsc"
     },
     "devDependencies": {
         "@types/node": "^18.11.5",
