@@ -2,5 +2,9 @@
     "name": "my-package",
     "version": "1.0.0",
     "main": "index.js",
-    "scripts": {}
+    "scripts": {},
+    "devDependencies": {
+        "@types/node": "^18.11.5",
+        "typescript": "^4.8.4"
+    }
 }
